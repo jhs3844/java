@@ -1,4 +1,4 @@
-package org.example.hash;
+package org.example.hash.level1;
 
 import java.util.HashSet;
 import java.util.Set;

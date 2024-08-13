@@ -1,4 +1,4 @@
-package org.example.hash;
+package org.example.hash.level1;
 import java.util.*;
 public class marathon_level1 {
     public static void main(String[] args) {
